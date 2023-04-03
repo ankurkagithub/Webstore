@@ -1,0 +1,46 @@
+
+.photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.photo:hover{
+  opacity: 0.3;
+  transition: 0.5s ease;
+}
+
+.product_name{
+  text-align: center;
+  margin: 0;
+  font-weight: bold;
+}
+
+.price {
+  text-align: center;
+}
+
+.details{
+  margin:0px;
+}
+
+.buybutton{
+  text-align: center;
+  margin:0 0 40px 0 ;
+
+}
+
+.price{
+  font-size: large;
+  font-weight: bold;
+  padding: 2px;
+}
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
